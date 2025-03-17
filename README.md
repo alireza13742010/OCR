@@ -10,3 +10,10 @@ This repository demonstrtaes the results of using OCR using QWEn model for extra
 </p>
 
 
+2. what is the expiration date of this credit card?
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/4117bd60-f0d6-4b60-94b8-5f2147989d83" width="600" title="Input Picture">
+
+  
+  <img src="https://github.com/user-attachments/assets/5bdce6ee-6dd3-43e6-bffc-792debc4eb82" width="600" title="Response">
+</p>
