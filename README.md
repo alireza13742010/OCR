@@ -1,5 +1,5 @@
 # OCR
-This repository demonstrtaes the results of using OCR using QWEn model for extracting nformation form the text
+This repository demonstrtaes the results of using OCR using Qwen 2.5 for extracting nformation form the text
 # Results 
 1. what is the cost of  mayonnaise sauce ?
 <p align="center">
