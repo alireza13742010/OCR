@@ -17,3 +17,8 @@ This repository demonstrtaes the results of using OCR using Qwen 2.5 for extract
   
   <img src="https://github.com/user-attachments/assets/5bdce6ee-6dd3-43e6-bffc-792debc4eb82" width="600" title="Response">
 </p>
+
+3. Image object counting
+   <p align="center">
+  <video src="https://github.com/user-attachments/assets/5e5a9dbf-129c-4770-b5f2-ce1585c4b1df" width="600" title="Input Image">
+  </p>
